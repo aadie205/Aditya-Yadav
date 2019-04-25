@@ -69,13 +69,13 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`uid`, `unm`, `uemail`, `udob`, `uadd`, `ucredit`, `uaccno`) VALUES
-(1, 'ketan pushp', 'kp95@gmail.com', '1997-03-24', 'krishna apartment, near hatwa bazaar, patna', 3232, 'AC000001'),
-(2, 'rakulpreet', 'preetrakul@yahoo.com', '1994-10-13', 'malad,mumbai', 3580, 'AC000123'),
+(1, 'aditya yadav', 'yadavaditya205gmail.com', '1997-03-24', 'khalgaon , gopalganj, Bihar', 3232, 'AC000001'),
+(2, 'sumi ', 'jhangarasumit@yahoo.com', '1994-10-13', 'malad,mumbai', 3580, 'AC000123'),
 (3, 'vishesh ', 'vi12345@gmail.com', '1997-03-19', 'jamuna apartment,raipur', 11728, 'AC000012'),
-(4, 'avni', 'avni@gmail.com', '1994-03-20', 'house 23,sk puri, bhopal', 3688, 'AC000312'),
-(5, 'venkateshwar', 'venkateshwar111@yahoo.com', '1995-06-13', 't. nagar chennai', 5900, 'AC000124'),
-(6, 'rohit kumar', 'kumarro@gmail.com', '1997-08-24', 'gandhi colony khandwa', 5640, 'AC000222'),
-(7, 'shubham', 'shubhammmm@gmail.com', '1998-11-12', 'patliputra colony, patna', 6832, 'AC000225'),
-(8, 'swaroop sharma', 'sharma12@gmail.com', '1994-01-12', 'chatta chowk,muzaffarpur', 9668, 'AC000002'),
-(9, 'chetan sharma', 'chetansharma7@yahoo.com', '1995-09-11', 'central colony,ahemdabad', 7050, 'AC000013'),
-(10, 'girish raj', 'girishaj@gmail.com', '1997-12-24', 'khetan market,singrauli', 9952, 'AC000313');
+(4, 'angesh', 'ang3378@gmail.com', '1994-03-20', 'house 23,sk puri, bhopal', 3688, 'AC000312'),
+(5, 'alok', 'alok334@yahoo.com', '1995-06-13', 't. nagar chennai', 5900, 'AC000124'),
+(6, 'rohit', 'kumarro@gmail.com', '1997-08-24', 'gandhi colony khandwa', 5640, 'AC000222'),
+(7, 'naveen roy', 'roynaveen121@gmail.com', '1998-11-12', 'patliputra colony, patna', 6832, 'AC000225'),
+(8, 'swasti swaroopa', 'swati420@gmail.com', '1994-01-12', 'chatta chowk,muzaffarpur', 9668, 'AC000002'),
+(9, 'amardeep', 'amar990@yahoo.com', '1995-09-11', 'central colony,ahemdabad', 7050, 'AC000013'),
+(10, 'ratnesh', 'ratneshj@gmail.com', '1997-12-24', 'khetan market,singrauli', 9952, 'AC000313');
